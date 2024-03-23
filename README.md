@@ -11,8 +11,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2312.02087-b31b1b.svg)](https://arxiv.org/)
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://knightyxp.github.io/EVA/)
 
+## 📣 EVA Intro Video
 
-You can watch the EVA intro video here.
 https://github.com/knightyxp/EVA_Video_Edit/assets/48432506/fca0bf8a-3e31-4696-82a2-6154e57967e5
 
 **EVA** can achieves **accurate multi-attribute editing**  editing for both single and **multi-object** scenarios in human-centric complex motion. **Without any training** by leveraging pre-trained **text-image** SD models.  
