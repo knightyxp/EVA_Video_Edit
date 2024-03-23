@@ -13,7 +13,7 @@
 
 
 ## 📣 EVA Intro Video
-
+https://github.com/knightyxp/EVA_Video_Edit/blob/24c5164e39b7ac69b969d262fbe9aebbe0ebb6b0/video/EVA_supply_video.mp4
 You can watch the EVA intro video here.
 [![EVA Teaser](https://github.com/knightyxp/EVA_Video_Edit/blob/main/video/EVA_supply_video.mp4)]
 
