@@ -15,7 +15,7 @@
 ## 📣 EVA Intro Video
 
 You can watch the EVA intro video here.
-[![EVA Teaser](video/eva.jpg)](video/EVA_supply_video.mp4)
+[![EVA Teaser](https://github.com/knightyxp/EVA/blob/master/static/videos/EVA_supply_video.mp4)]
 
 
 **EVA** can achieves **accurate multi-attribute editing**  editing for both single and **multi-object** scenarios in human-centric complex motion. **Without any training** by leveraging pre-trained **text-image** SD models.  
