@@ -1,4 +1,4 @@
-# EVA
+# EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing
 
 **[EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](https://arxiv.org/)**
 <br/>
