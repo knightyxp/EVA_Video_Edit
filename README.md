@@ -12,8 +12,9 @@
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://knightyxp.github.io/EVA/)
 
 
-## 📣 EVA Intro Video
-https://gist.github.com/knightyxp/06974ec8ce4829c1898032983673c56b?permalink_comment_id=4998482#gistcomment-4998482
+## 📣 EVA Intro Video()
+![EVA Intro](https://gist.github.com/knightyxp/06974ec8ce4829c1898032983673c56b?permalink_comment_id=4998482#gistcomment-4998482 "EVA_intro")
+
 You can watch the EVA intro video here.
 
 
