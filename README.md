@@ -1,6 +1,6 @@
 # EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing
 
-**[EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](https://arxiv.org/)**
+**[EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](https://arxiv.org/abs/2403.16111)**
 <br/>
 [Xiangpeng Yang](https://github.com/knightyxp),
 [Linchao Zhu](https://ffmpbgrnn.github.io/),
@@ -8,7 +8,7 @@
 [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en),
 <br/>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2312.02087-b31b1b.svg)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2312.02087-b31b1b.svg)](https://arxiv.org/abs/2403.16111)
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://knightyxp.github.io/EVA/)
 
 ## 📣 EVA Intro Video
@@ -36,11 +36,13 @@ This codebase builds on [diffusers](https://github.com/huggingface/diffusers). B
 
 ```bibtex
 
-@article{yang2024eva,
-  title={EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing},
-  author={Xiangpeng Yang, Linchao Zhu, Hehe Fan, Yi Yang},
-  journal={arXiv preprint arXiv:},
-  year={2024}
+@misc{yang2024eva,
+      title={EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing}, 
+      author={Xiangpeng Yang and Linchao Zhu and Hehe Fan and Yi Yang},
+      year={2024},
+      eprint={2403.16111},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
 ```
