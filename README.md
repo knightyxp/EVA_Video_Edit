@@ -11,6 +11,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2312.02087-b31b1b.svg)](https://arxiv.org/abs/2403.16111)
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://knightyxp.github.io/EVA/)
 
+![teaser](assets/teaser.gif)
+(Note that the videos on GitHub are heavily compressed. The full videos are available on the project webpage.)
+
 
 ## 📣 EVA Intro Video
 
@@ -29,7 +32,7 @@ To tackle this issue, we introduce EVA, a zero-shot and multi-attribute video ed
 For more editing results, plz see [project webpage](https://knightyxp.github.io/EVA/).
 
 
-## ⚡️ Showcases
+<!-- ## ⚡️ Showcases
 <table class="center">
   <tr>
     <td colspan="1">single attribute editing →   multi attribute editing</td>
@@ -37,17 +40,17 @@ For more editing results, plz see [project webpage](https://knightyxp.github.io/
   </tr>
   <tr>
   <td>
-    <img src=assets/tennis.gif width="340">
+    <img src=assets/tennis.gif width="700">
   </td>
 
   <td>
-    <img src=assets/running_two_man.gif width="340">
+    <img src=assets/running_two_man.gif width="700">
   </td>
 
   </tr>
 
 
-</table>
+</table> -->
 
 
 
