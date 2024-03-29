@@ -14,12 +14,12 @@
 ![teaser](assets/teaser.gif)
 (Note that the videos on GitHub are heavily compressed. The full videos are available on the project webpage.)
 
+📚 TL; DR: **EVA**  is based on **T2I model** (StableDiffusion 1.5), designed for accurate **multi-attribute** editing in **single/multi-object** scenarios **without any training**.
 
 ## 📣 EVA Intro Video
 
 https://github.com/knightyxp/EVA_Video_Edit/assets/48432506/c474474b-904f-4896-8ee5-3acf3b187df2
 
-**EVA** can achieves **accurate multi-attribute editing**  editing for both single and **multi-object** scenarios in human-centric complex motion. **Without any training** by leveraging pre-trained **text-image** SD models.  
 
 <details><summary>Click for the full abstract</summary>
 
